@@ -3,9 +3,10 @@
 Most simply, we can just use Postgres “__search” lookup and our job will be done!
 
 ### When should you use __search lookup?
-When you want to implement a quick and basic full-text search
-When you don’t want to search against multiple fields at once
-When you don’t want to customize the full-text search like Rank etc…
+
+1) When you want to implement a quick and basic full-text search
+2) When you don’t want to search against multiple fields at once
+3) When you don’t want to customize the full-text search like Rank etc…
 
 
 ## The more convenient way
